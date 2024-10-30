@@ -1018,26 +1018,6 @@ class CLI{
 
 class Main{
 	public static void main(String[] args) throws IOException{
-		//Testing functions
-			/*
-			Finished:
-			--Matrix class
-			--Dataset class
-			--saveState
-			--exitNetwork
-			--loadNetwork
-			--trainNetwork
-			--trackAccuracy
-			--getIntY
-			--runNetwork
-			--displayAccuracy
-			--main
-			--displayMisclassifiedImages
-			
-			In Progress:
-			--compare: get professor's feedback about approach
-			*/
-		
 		Scanner scanner = new Scanner(System.in);
 		while(true){
 			//Starting screen upon running program - first selection
